@@ -3,7 +3,7 @@
 Class Config {
 
     //INFORMAÇÕES BÁSICAS DO SITE
-    const SITE_URL = "http://localhost/php d";
+    const SITE_URL = "https://eldenmmt.github.io/lojatechvision.github.io";
     const SITE_PASTA = "Projeto Integrado";
     const SITE_NOME = "TechVision";
     const SITE_EMAIL_ADM = "eldenmmt@gmail.com";
